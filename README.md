@@ -4,7 +4,7 @@ About:
 - Covid Watch aims to quickly inform users on the current COVID-19 statistics worldwide, including confirmed, recovered, and deaths. It features all the countries in the world that have COVID-19 data logged. In addition, it also provides the country's vaccine statistics such as the nunber of vaccines administered, people partially vaccinated, and people fully vaccinated. The percent of population infected and percent of population vaccinated is also available.
 
 Frameworks Used:
--SwiftyJSON
+- SwiftyJSON
 
 Special Thanks:
 - COVID API FROM: https://github.com/M-Media-Group/Covid-19-API
